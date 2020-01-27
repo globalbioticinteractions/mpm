@@ -4,4 +4,4 @@
 
 https://symbiota.mpm.edu/
 
-This repository contains configuration to help Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) find and index biotic association records in the biological collection of the Milwaukee Public Museum.
+This repository contains configuration to help Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) find and index biotic association records in the biological collections of the [Milwaukee Public Museum](https://mpm.edu).
