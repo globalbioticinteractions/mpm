@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/scan.svg)](https://travis-ci.org/globalbioticinteractions/scan) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/scan)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/scan) 
+[![Build Status](https://travis-ci.org/globalbioticinteractions/mpm.svg)](https://travis-ci.org/globalbioticinteractions/mpm) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/mpm)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/mpm) 
 
 ## Milwaukee Public Museum Biological Collections Data Portal
 
