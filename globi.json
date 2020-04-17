@@ -2,7 +2,7 @@
   "format": "rss",
   "citation": "Milwaukee Public Museum Biological Collections Data Portal",
   "resources": {
-    "rss": "https://symbiota.mpm.edu:443/webservices/dwc/rss.xml"
+    "rss": "https://ipt.mpm.edu/rss.do"
   },
   "shouldResolveReferences": false
 }
