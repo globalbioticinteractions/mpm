@@ -1,8 +1,6 @@
 { 
   "format": "rss",
   "citation": "Milwaukee Public Museum Biological Collections Data Portal",
-  "resources": {
-    "rss": "https://ipt.mpm.edu/rss.do"
-  },
+  "url": "https://ipt.mpm.edu/rss.do",
   "shouldResolveReferences": false
 }
